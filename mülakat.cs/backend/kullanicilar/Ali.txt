@@ -1,5 +1,5 @@
-Kullanıcı Adı: eftalinkocasiyim
-Şifre: ahmedimedi
+Kullanıcı Adı: Ali
+Şifre: 123123
 Telefon No: 5418550697
 Mail: ahmethanaje@gmail.com
 Adres: Tokat/Merkez
