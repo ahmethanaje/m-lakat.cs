@@ -1,0 +1,7 @@
+Tür: Tişört
+Renk: Mor
+Marka: Adidas
+Stok: 5
+Fiyat: 300
+Kategori: Giyim
+İD: 7

@@ -1,0 +1,7 @@
+Tür: Ayakkabı
+Renk: Siyah
+Marka: Nike
+Stok: 12
+Fiyat: 550
+Kategori: Giyim
+İD: 1

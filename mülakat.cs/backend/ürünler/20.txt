@@ -1,0 +1,7 @@
+Tür: Bilgisayar
+Renk: Siyah
+Marka: HP
+Stok: 10
+Fiyat: 24000
+Kategori: Teknolojik
+İD: 20

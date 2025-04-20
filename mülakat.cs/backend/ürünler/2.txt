@@ -1,0 +1,7 @@
+Tür: Ayakkabı
+Renk: Siyah
+Marka: Puma
+Stok: 0
+Fiyat: 250
+Kategori: Giyim
+İD: 2

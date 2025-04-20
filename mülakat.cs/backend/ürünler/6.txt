@@ -1,0 +1,7 @@
+Tür: Tişört
+Renk: Mor
+Marka: Nike
+Stok: 8
+Fiyat: 500
+Kategori: Giyim
+İD: 6

@@ -1,0 +1,7 @@
+Tür: Pantolon
+Renk: Mavi
+Marka: Gucci
+Stok: 3
+Fiyat: 500
+Kategori: Giyim
+İD: 21

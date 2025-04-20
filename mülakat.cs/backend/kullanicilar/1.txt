@@ -1,0 +1,6 @@
+Kullanıcı Adı: 1
+Şifre: 1
+Telefon No: 543985345
+Mail: mgmail.comt
+Adres: Sivas/Merkez
+Sepet: Telefon id:(3) 

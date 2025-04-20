@@ -1,0 +1,7 @@
+Tür: Telefon
+Renk: Mavi
+Marka: Samsung
+Stok: 5
+Fiyat: 10000
+Kategori: Teknolojik
+İD: 8

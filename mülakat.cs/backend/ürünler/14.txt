@@ -1,0 +1,7 @@
+Tür: Telefon
+Renk: Pembe
+Marka: İphone
+Stok: 6
+Fiyat: 12500
+Kategori: Teknolojik
+İD: 14

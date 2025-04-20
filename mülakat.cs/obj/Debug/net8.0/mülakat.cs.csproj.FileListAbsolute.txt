@@ -1,0 +1,14 @@
+C:\Users\VICTUS\source\repos\mülakat.cs\mülakat.cs\bin\Debug\net8.0\mülakat.cs.exe
+C:\Users\VICTUS\source\repos\mülakat.cs\mülakat.cs\bin\Debug\net8.0\mülakat.cs.deps.json
+C:\Users\VICTUS\source\repos\mülakat.cs\mülakat.cs\bin\Debug\net8.0\mülakat.cs.runtimeconfig.json
+C:\Users\VICTUS\source\repos\mülakat.cs\mülakat.cs\bin\Debug\net8.0\mülakat.cs.dll
+C:\Users\VICTUS\source\repos\mülakat.cs\mülakat.cs\bin\Debug\net8.0\mülakat.cs.pdb
+C:\Users\VICTUS\source\repos\mülakat.cs\mülakat.cs\obj\Debug\net8.0\mülakat.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VICTUS\source\repos\mülakat.cs\mülakat.cs\obj\Debug\net8.0\mülakat.cs.AssemblyInfoInputs.cache
+C:\Users\VICTUS\source\repos\mülakat.cs\mülakat.cs\obj\Debug\net8.0\mülakat.cs.AssemblyInfo.cs
+C:\Users\VICTUS\source\repos\mülakat.cs\mülakat.cs\obj\Debug\net8.0\mülakat.cs.csproj.CoreCompileInputs.cache
+C:\Users\VICTUS\source\repos\mülakat.cs\mülakat.cs\obj\Debug\net8.0\mülakat.cs.dll
+C:\Users\VICTUS\source\repos\mülakat.cs\mülakat.cs\obj\Debug\net8.0\refint\mülakat.cs.dll
+C:\Users\VICTUS\source\repos\mülakat.cs\mülakat.cs\obj\Debug\net8.0\mülakat.cs.pdb
+C:\Users\VICTUS\source\repos\mülakat.cs\mülakat.cs\obj\Debug\net8.0\mülakat.cs.genruntimeconfig.cache
+C:\Users\VICTUS\source\repos\mülakat.cs\mülakat.cs\obj\Debug\net8.0\ref\mülakat.cs.dll

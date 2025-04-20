@@ -1,0 +1,7 @@
+Tür: Masa
+Renk: Mavi
+Marka: Bellona
+Stok: 6
+Fiyat: 750
+Kategori: Ev Eşyası
+İD: 10

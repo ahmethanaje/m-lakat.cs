@@ -1,0 +1,7 @@
+Tür: Kanepe
+Renk: Mavi
+Marka: İstikbal
+Stok: 4
+Fiyat: 3000
+Kategori: Ev Eşyaları
+İD: 12

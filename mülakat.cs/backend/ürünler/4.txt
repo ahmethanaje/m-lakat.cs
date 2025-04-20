@@ -1,0 +1,7 @@
+Tür: Telefon
+Renk: Siyah
+Marka: İphone
+Stok: 1
+Fiyat: 12000
+Kategori: Teknolojik
+İD: 4

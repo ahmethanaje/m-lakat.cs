@@ -1,0 +1,7 @@
+Tür: Telefon
+Renk: Mavi
+Marka: Vestel
+Stok: 3
+Fiyat: 7500
+Kategori: Teknolojik
+İD: 13

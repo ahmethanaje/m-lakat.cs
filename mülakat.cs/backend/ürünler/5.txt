@@ -1,0 +1,7 @@
+Tür: Tişört
+Renk: Kırmızı
+Marka: Adidas
+Stok: 4
+Fiyat: 50
+Kategori: Giyim
+İD: 5
