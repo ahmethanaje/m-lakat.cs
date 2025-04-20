@@ -12,3 +12,4 @@ C:\Users\VICTUS\source\repos\mülakat.cs\mülakat.cs\obj\Debug\net8.0\refint\mü
 C:\Users\VICTUS\source\repos\mülakat.cs\mülakat.cs\obj\Debug\net8.0\mülakat.cs.pdb
 C:\Users\VICTUS\source\repos\mülakat.cs\mülakat.cs\obj\Debug\net8.0\mülakat.cs.genruntimeconfig.cache
 C:\Users\VICTUS\source\repos\mülakat.cs\mülakat.cs\obj\Debug\net8.0\ref\mülakat.cs.dll
+C:\Users\VICTUS\source\repos\mülakat.cs\mülakat.cs\obj\Debug\net8.0\mülakat.cs.sourcelink.json

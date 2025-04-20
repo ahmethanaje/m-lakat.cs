@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mülakat.cs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef79117829a8f6718c24add9e8a291c31670c766")]
 [assembly: System.Reflection.AssemblyProductAttribute("mülakat.cs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mülakat.cs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
